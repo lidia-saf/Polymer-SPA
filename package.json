@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "description": "This is application for registering for an event",
+  "scripts": {
+    "start": "./node_modules/.bin/polymer serve"
+  },
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.0-pre.19",
+    "@polymer/iron-pages": "^3.0.0-pre.19",
+    "@polymer/paper-input": "^3.0.0-pre.19",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/app-route": "^3.0.0-pre.19",
+    "@polymer/iron-form": "^3.0.0-pre.19",
+    "@polymer/paper-button": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "polymer-cli": "^1.7.4",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
