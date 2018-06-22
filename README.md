@@ -37,13 +37,13 @@ The jump to the Event details or Registration form sections on the Main Page are
 
 The application uses the following dependencies to run:
 
-  "dependencies": {
+  1. "dependencies": {
     "@polymer/app-layout": "^3.0.0-pre.19",
     "@polymer/iron-pages": "^3.0.0-pre.19",
     "@polymer/paper-input": "^3.0.0-pre.19",
     "@polymer/polymer": "^3.0.0"
   },
-  "devDependencies": {
+  2. "devDependencies": {
     "@polymer/app-route": "^3.0.0-pre.19",
     "@polymer/iron-form": "^3.0.0-pre.19",
     "@polymer/paper-button": "^3.0.0-pre.19",
@@ -51,7 +51,11 @@ The application uses the following dependencies to run:
     "polymer-cli": "^1.7.4",
     "wct-browser-legacy": "^1.0.0
 
+## Screenshots
 
+![Screenshot1](https://github.com/lidia-saf/Polymer-SPA/blob/master/Screenshot1.png "Screenshot 1")
+
+![Screenshot2](https://github.com/lidia-saf/Polymer-SPA/blob/master/Screenshot2.png "Screenshot 2")
 
 
 
