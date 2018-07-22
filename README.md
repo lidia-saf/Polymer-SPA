@@ -1,9 +1,6 @@
 # \<my-app\>
 
-This is a simple one page application for registering for an event as test assignment for Agilians
-
-Developed by Lidia Safiullina.
-email: lidiia.safiullina@yandex.ru
+This is a simple one page application for registering for an event as test assignment for Polymer 3.0 use
 
 #Description
 
