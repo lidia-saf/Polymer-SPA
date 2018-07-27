@@ -20,11 +20,11 @@ Application consists of two pages:
 
 1. My Main Page (default page shown to the user) with the following two sections:
   1. Event description details (time, date, location, name of the event);
-  2. Registration form for the event with 'Submit' button
+  2. Registration form for the event with 'Submit' button that sends the information to mock up API
 
 2. Event Private Page
 
-  Event Private Page is imperatively shown to the user by the use of event listener attached to the Submit input field in the registration form.
+  Event private page contains some details on the event and allows the user to change the password.
 
 The changes between My Main Page and Event Private Page are executed with the use of <app-route> and <app-location>.
 
